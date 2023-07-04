@@ -5,7 +5,7 @@ This guide will walk you through the process of deploying the popular 2048 game 
 ## 2048 game
 click the link to play :
 
-<img src="Screenshot from 2023-07-02 00-02-48.png"/>
+<img src="2048win.jpg"/>
 
 ## FLOWCHART
 
