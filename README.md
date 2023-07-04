@@ -14,7 +14,7 @@ Before you begin, make sure you have the following:
 Start by cloning {master.zip} the 2048 game repository to your local machine:
 
 ```bash
-
+https://github.com/yuva19102003/2048/archive/refs/heads/master.zip
 ```
 
 ## Step 2: Create a Dockerfile
